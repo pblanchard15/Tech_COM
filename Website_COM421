@@ -1,1 +1,16 @@
 <!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title> Patrick Blanchard </title>
+  <link rel="stylesheet" href="/css/master.css">
+</head>
+
+<h1>Contact Info</h1>
+<ul>
+  <li>Glenview, IL</li>
+  <li>(224)704-2111</li>
+  <li>patblanchard15@gmail.com</li>
+</ul>
