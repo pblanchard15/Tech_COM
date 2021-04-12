@@ -3,6 +3,11 @@ width: 960px;
 margin-left: auto;
 margin-right: auto;
 
-title {
+.title {
+  width: 500px;
+}
+
+.TheOfficePhoto {
+  height: auto;
   width: 500px;
 }
