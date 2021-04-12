@@ -7,7 +7,7 @@
   <title> Patrick Blanchard </title>
   <link rel="stylesheet" href="master.css">
 </head>
-
+<body>
 <header>
 <h1>Contact Info</h1>
 <ul>
@@ -45,3 +45,5 @@ can be used to help an organization enhance and grow its vision and mission.</p>
   <li>Hi-Five: Camp Counselor, 2019</li>
   <li>RTG Athletics: Coach and Maintenence, 2019-2021</li>
 </ul>
+</body>
+</html>
