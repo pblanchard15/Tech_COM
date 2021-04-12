@@ -6,6 +6,12 @@
 <meta charset= "UTF-8" />
 <title> About Me </title>
 </head>
+<nav id="navigation">
+  <ul>
+    <li>About Me</li>
+    <li><a href="./Website_COM421">Resume</a></li>
+  </ul>
+</nav>
 <body>
 
 <h1>Background</h1>
