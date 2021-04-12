@@ -1,7 +1,8 @@
-div#page
+div#page {
 width: 960px;
 margin-left: auto;
 margin-right: auto;
+}
 
 .title {
   width: 500px;
