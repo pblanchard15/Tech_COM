@@ -7,6 +7,12 @@
   <title> Patrick Blanchard </title>
   <link rel="stylesheet" href="master.css">
 </head>
+<nav id="navigation">
+  <ul>
+    <li><a href="./AboutMe">About Me</a></li>
+    <li>Resume</li>
+  </ul>
+</nav>
 <body>
 <header>
 <h1>Contact Info</h1>
