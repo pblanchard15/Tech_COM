@@ -5,6 +5,11 @@ margin-right: auto;
 background-color: lightblue;
 }
 
+.navigation {
+  border: ridge;
+  border-color: blue;
+}
+
 .TheOfficePhoto {
   height: auto;
   width: 500px;
