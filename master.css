@@ -2,10 +2,7 @@ div#page {
 width: 960px;
 margin-left: auto;
 margin-right: auto;
-}
-
-.title {
-  width: 500px;
+background-color: lightblue;
 }
 
 .TheOfficePhoto {
@@ -13,10 +10,35 @@ margin-right: auto;
   width: 500px;
 }
 
-.navigation {
+.IITteam2020 {
+width: 600px;
+height: auto;
+}
 
+.hobbies {
+  font-size: 1.5em;
+}
+
+.contactinfo {
+  border-bottom-style: double;
+  font-size: 1.17em;
+}
+
+.objective {
+  border-bottom-style: double;
+}
+
+.education {
+  border-bottom-style: double;
+  font-size: 1.17em;
+}
+
+.technicalskills {
+  border-bottom-style: double;
+  font-size: 1.17em;
 }
 
 .Experience {
+  border-bottom-style: double;
   font-size: 1.17em;
 }
